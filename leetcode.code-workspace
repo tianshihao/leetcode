@@ -1,0 +1,21 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "./cpp"
+        },
+        {
+            "path": "./c"
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "string_view": "cpp",
+            "array": "c",
+            "initializer_list": "c",
+            "utility": "c"
+        }
+    }
+}
