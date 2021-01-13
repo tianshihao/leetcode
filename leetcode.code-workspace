@@ -18,7 +18,9 @@
             "utility": "c",
             "unordered_set": "cpp",
             "hash_map": "cpp",
-            "string": "cpp"
+            "string": "cpp",
+            "list": "cpp",
+            "xutility": "cpp"
         }
     }
 }
