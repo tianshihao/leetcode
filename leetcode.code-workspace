@@ -20,7 +20,8 @@
             "hash_map": "cpp",
             "string": "cpp",
             "list": "cpp",
-            "xutility": "cpp"
+            "xutility": "cpp",
+            "xiosbase": "cpp"
         }
     }
 }
