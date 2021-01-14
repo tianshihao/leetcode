@@ -21,7 +21,10 @@
             "string": "cpp",
             "list": "cpp",
             "xutility": "cpp",
-            "xiosbase": "cpp"
+            "xiosbase": "cpp",
+            "algorithm": "cpp",
+            "unordered_map": "cpp",
+            "iostream": "cpp"
         }
     }
 }
