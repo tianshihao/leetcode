@@ -24,7 +24,12 @@
             "xiosbase": "cpp",
             "algorithm": "cpp",
             "unordered_map": "cpp",
-            "iostream": "cpp"
+            "iostream": "cpp",
+            "queue": "cpp",
+            "stack": "cpp",
+            "type_traits": "cpp",
+            "xtr1common": "cpp",
+            "iosfwd": "cpp"
         }
     }
 }
