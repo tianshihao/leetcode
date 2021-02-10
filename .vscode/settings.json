@@ -1,6 +1,15 @@
 {
     "files.associations": {
         "vector": "cpp",
-        "*.tcc": "cpp"
+        "*.tcc": "cpp",
+        "type_traits": "cpp",
+        "numeric": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "algorithm": "cpp",
+        "unordered_map": "cpp"
     }
 }
